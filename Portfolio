@@ -1,0 +1,150 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Nominjin Sukhbold | Portfolio</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+  <style>
+    body {
+      margin: 0;
+      font-family: "Georgia", serif;
+      background: #f8fafc;
+      color: #1e293b;
+      line-height: 1.6;
+    }
+
+    header {
+      background: #7f1d1d;
+      color: white;
+      padding: 50px 20px;
+      text-align: center;
+    }
+
+    header h1 {
+      margin: 0;
+      font-size: 36px;
+      letter-spacing: 1px;
+    }
+
+    header p {
+      margin-top: 10px;
+      font-size: 16px;
+    }
+
+    nav {
+      text-align: center;
+      padding: 10px;
+      background: #111827;
+    }
+
+    nav a {
+      color: #e5e7eb;
+      margin: 0 15px;
+      text-decoration: none;
+      font-size: 14px;
+    }
+
+    nav a:hover {
+      color: #facc15;
+    }
+
+    section {
+      max-width: 800px;
+      margin: auto;
+      padding: 40px 20px;
+    }
+
+    h2 {
+      border-bottom: 2px solid #7f1d1d;
+      padding-bottom: 5px;
+      margin-bottom: 20px;
+    }
+
+    .card {
+      margin-bottom: 25px;
+    }
+
+    ul {
+      padding-left: 20px;
+    }
+
+    footer {
+      text-align: center;
+      padding: 20px;
+      background: #111827;
+      color: #9ca3af;
+      font-size: 13px;
+    }
+  </style>
+</head>
+
+<body>
+
+<header>
+  <h1>Nominjin Sukhbold</h1>
+  <p>Applicant | Future International Student</p>
+</header>
+
+<nav>
+  <a href="#about">About</a>
+  <a href="#education">Education</a>
+  <a href="#skills">Skills</a>
+  <a href="#goals">Goals</a>
+  <a href="#contact">Contact</a>
+</nav>
+
+<section id="about">
+  <div class="card">
+    <h2>Personal Statement</h2>
+    <p>
+      I am a Grade 12 student with a strong interest in technology and international education. 
+      As a motivated and responsible learner, I am currently preparing for my future studies abroad. 
+      I am especially interested in developing my skills in web development and expanding my academic experience in a global environment.
+    </p>
+  </div>
+</section>
+
+<section id="education">
+  <div class="card">
+    <h2>Education</h2>
+    <p>High School Student (Grade 12)</p>
+    <p>Expected Graduation: 2026</p>
+  </div>
+</section>
+
+<section id="skills">
+  <div class="card">
+    <h2>Skills</h2>
+    <ul>
+      <li>Basic HTML & CSS</li>
+      <li>GitHub Project Upload</li>
+      <li>English Communication (IELTS Preparation)</li>
+      <li>Time Management & Self-learning</li>
+    </ul>
+  </div>
+</section>
+
+<section id="goals">
+  <div class="card">
+    <h2>Future Goals</h2>
+    <p>
+      My goal is to study at an international university and gain strong knowledge in technology and business-related fields. 
+      I aim to improve my technical skills and contribute to innovative projects in the future.
+    </p>
+  </div>
+</section>
+
+<section id="contact">
+  <div class="card">
+    <h2>Contact</h2>
+    <p>Email: Nominjin1015@gmail.com</p>
+  </div>
+</section>
+
+<footer>
+  <p>© 2026 Nominjin Sukhbold | Portfolio</p>
+</footer>
+
+</body>
+</html>
